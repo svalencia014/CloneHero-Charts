@@ -1,0 +1,24 @@
+﻿[Song]
+{
+  Name = "Slow Burn"
+  Artist = "Zac Brown Band"
+  Charter = "BifocalCanvas"
+  Album = "The Comeback"
+  Year = ", 2021"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "Country"
+  MediaType = "File"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 120000
+}
+[Events]
+{
+}
